@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2019-12-25T13:51:21Z" name="s" targetId="144c34429d4448bc985b67b5d4a706f0" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2019-12-25T13:58:06Z" name="e" targetId="9874c1d93f664a10be446c98b19338ae" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2019-12-25T14:04:47Z" name="y" targetId="45d1d7e2f6a34a3c9025f596697c85fe" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2019-12-25T14:40:39Z" name="remote" targetId="f527091447054b5bb2e5783193b30eba" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2019-12-25T14:51:26Z" name="speaker" targetId="cf96735b637147d08a26a1ab5506d307" version="2.0" />
+  </TargetSet>
+</QCARInfo>
